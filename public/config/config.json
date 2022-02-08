@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x841a5ea8966141f37529dbc01a60555b6f54281942d152eeaceae00f07c61607",
+  "SCAN_LINK": "https://polygonscan.com/token/0x841a5ea8966141f37529dbc01a60555b6f54281942d152eeaceae00f07c61607",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Orc Hideout NFT",
+  "SYMBOL": "ORCNFT",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/orc-hideout",
+  "SHOW_BACKGROUND": true
+}
